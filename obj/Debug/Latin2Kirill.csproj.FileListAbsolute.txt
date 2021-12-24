@@ -1,0 +1,7 @@
+D:\Codes\.NET_Projects\Latin2Kirill\bin\Debug\Latin2Kirill.exe.config
+D:\Codes\.NET_Projects\Latin2Kirill\bin\Debug\Latin2Kirill.exe
+D:\Codes\.NET_Projects\Latin2Kirill\bin\Debug\Latin2Kirill.pdb
+D:\Codes\.NET_Projects\Latin2Kirill\obj\Debug\Latin2Kirill.csproj.AssemblyReference.cache
+D:\Codes\.NET_Projects\Latin2Kirill\obj\Debug\Latin2Kirill.csproj.CoreCompileInputs.cache
+D:\Codes\.NET_Projects\Latin2Kirill\obj\Debug\Latin2Kirill.exe
+D:\Codes\.NET_Projects\Latin2Kirill\obj\Debug\Latin2Kirill.pdb
